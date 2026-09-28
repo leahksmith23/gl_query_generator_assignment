@@ -1,0 +1,4 @@
+streamlit
+pandas
+sqlparse
+langchain-open-ai
